@@ -21,5 +21,16 @@
     <ClCompile Include="类模板成员函数的类外实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="类模板份文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
