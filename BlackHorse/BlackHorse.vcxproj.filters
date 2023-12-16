@@ -36,6 +36,24 @@
     <ClCompile Include="初识容器Vector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="string字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串比较.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string字符串存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="string插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stirng字串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="person.hpp">
