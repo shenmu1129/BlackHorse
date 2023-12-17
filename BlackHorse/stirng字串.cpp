@@ -7,19 +7,28 @@ using namespace std;
 void test02()
 {
 	string str1 = "hello";
-	str1.insert(1, "111");
-	//h111ello
-	cout << str1 << endl;
+	//从某个位置开始，截多少个
+	string subStr = str1.substr(1, 3);
+	cout << subStr << endl;
 
-	//shanchu
-	str1.erase(1, 3);
-	cout << str1 << endl;
 
 }
 
+void test03()
+{
+	string str1 = "hello11@sina.com";
+	//从邮件地址中获取用户名
+	int pos = str1.find('@');
+
+	string subStr = str1.substr(0, pos);
+
+	cout << subStr << endl;
+
+
+}
 
 int main()
 {
-	test02();
+	test03();
 
 }
