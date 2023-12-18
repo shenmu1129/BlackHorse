@@ -57,6 +57,12 @@
     <ClCompile Include="vector容器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="vector赋值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vector容器的容量和大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="person.hpp">
