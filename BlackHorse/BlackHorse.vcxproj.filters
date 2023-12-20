@@ -144,7 +144,34 @@
     <ClCompile Include="STL案例_员工分组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="STL函数对象.cpp">
+    <ClCompile Include="函数对象的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="谓词-一元谓词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="谓词-二元谓词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内建函数对象.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内建函数对象-关系仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内建函数对象-逻辑仿函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用的遍历算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用的遍历算法-transform.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用的查找算法-find.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常用查找算法，find_if.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
